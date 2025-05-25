@@ -1,8 +1,8 @@
 # Blockbench Model Parser
 
+[![GitHub stars](https://img.shields.io/github/stars/zorinov/blockbench-parser?style=social)](https://github.com/zorinov/blockbench-parser/stargazers)
 [![License](https://img.shields.io/badge/license-CC--BY--NC%204.0-blue)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-blue)](https://kotlinlang.org/)
-[![Build](https://img.shields.io/badge/build-passing-brightgreen)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-2.1.21-blue)](https://kotlinlang.org/)
 
 > JSON model parser for Blockbench exports, written in Kotlin
 

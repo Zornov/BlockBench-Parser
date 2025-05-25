@@ -1,6 +1,10 @@
 {
-  "extends": ["config:base"],
+  "extends": [
+    "config:recommended"
+  ],
   "automerge": false,
   "timezone": "Europe/Moscow",
-  "schedule": ["before 3am"]
+  "schedule": [
+    "before 3am"
+  ]
 }

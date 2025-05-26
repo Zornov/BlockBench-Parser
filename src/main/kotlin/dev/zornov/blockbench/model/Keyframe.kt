@@ -1,4 +1,4 @@
-package dev.zorinov.blockbench.model
+package dev.zornov.blockbench.model
 
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable

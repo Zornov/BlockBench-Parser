@@ -1,7 +1,7 @@
-package dev.zorinov.blockbench
+package dev.zornov.blockbench
 
-import dev.zorinov.blockbench.model.BlockbenchModel
-import dev.zorinov.blockbench.service.ModelParser
+import dev.zornov.blockbench.model.BlockbenchModel
+import dev.zornov.blockbench.service.ModelParser
 import java.io.File
 import kotlin.test.Test
 

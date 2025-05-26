@@ -4,7 +4,7 @@ plugins {
     `maven-publish`
 }
 
-group = "dev.zorinov.blockbench"
+group = "dev.zornov.blockbench"
 version = "1.0-SNAPSHOT"
 
 repositories {
@@ -37,11 +37,11 @@ publishing {
             pom {
                 name.set("parser")
                 description.set("Parser for models")
-                url.set("https://github.com/Zornoov/BlockBench-Parser")
+                url.set("https://github.com/Zornov/BlockBench-Parser")
                 developers {
                     developer {
-                        id.set("Zornoov")
-                        name.set("Sasha Zornoov")
+                        id.set("Zornov")
+                        name.set("Sasha Zornov")
                     }
                 }
             }
@@ -52,7 +52,7 @@ publishing {
 
         maven {
             name = "GitHubPackages"
-            url  = uri("https://maven.pkg.github.com/Zornoov/BlockBench-Parser")
+            url  = uri("https://maven.pkg.github.com/Zornov/BlockBench-Parser")
             credentials {
                 username = findProperty("gpr.user") as String
                 password = findProperty("gpr.key")  as String

@@ -1,6 +1,6 @@
 # Blockbench Model Parser
 
-[![GitHub stars](https://img.shields.io/github/stars/zorinov/blockbench-parser?style=social)](https://github.com/Zornoov/BlockBench-Parser/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/zorinov/blockbench-parser?style=social)](https://github.com/Zornov/BlockBench-Parser/stargazers)
 [![License](https://img.shields.io/badge/license-CC--BY--NC%204.0-blue)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.1.21-blue)](https://kotlinlang.org/)
 
@@ -11,7 +11,7 @@
 ## Features
 
 | Feature           | Description                                                                   |
-| ----------------- | ----------------------------------------------------------------------------- |
+|-------------------|-------------------------------------------------------------------------------|
 | **Model parsing** | Reads and deserializes Blockbench `.json` files into structured Kotlin models |
 | **Elements**      | Full support for geometric elements (position, size, UUID, etc.)              |
 | **Bones**         | Parses bone hierarchy and origin points                                       |

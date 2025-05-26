@@ -1,6 +1,6 @@
-package dev.zorinov.blockbench.service
+package dev.zornov.blockbench.service
 
-import dev.zorinov.blockbench.model.BlockbenchModel
+import dev.zornov.blockbench.model.BlockbenchModel
 import kotlinx.serialization.json.Json
 import java.io.File
 
